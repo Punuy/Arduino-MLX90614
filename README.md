@@ -28,9 +28,12 @@ MLX90614 เป็นเซนเซอร์วัดอุณหภูมิ�
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/27515ac891faaec4b441c87bdc697743cf7f0ba931586026.png)
 
+---
 
 ## Breadboard Schematic
 
-![](https://github.com/Punuy/Arduino-MLX90614/blob/main/PNG/breadboard_diagram.png)
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f42e113ed9438daa25c3f5ab7e20e6268b72430383bf3018.png)
 
-test
+## Real Schematic
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/6e73337bc2d1d340794b5d564cf79e002ec2281f325df3da.png)
