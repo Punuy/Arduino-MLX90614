@@ -7,7 +7,7 @@
 *   [เกี่ยวกับวงจร](https://github.com/Punuy/Arduino-MLX90614/edit/main/README.md#%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3)
 *   [ต่อวงจร](https://github.com/Punuy/Arduino-MLX90614/edit/main/README.md#%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3)
 *   [หลักการทำงาน](https://github.com/Punuy/Arduino-MLX90614/edit/main/README.md#หลักการทำงาน)
-*   [เกี่ยวกับ Code](https://github.com/Punuy/Arduino-MLX90614/edit/main/README.md#เกี่ยวกับ-code)
+*   [เกี่ยวกับ Code](https://github.com/Punuy/Arduino-MLX90614#เกี่ยวกับ-code)
 
 ## เกี่ยวกับวงจร
 
