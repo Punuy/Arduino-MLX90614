@@ -4,11 +4,62 @@
 
 ### **หัวข้อ** (คลิกไปที่หัวข้อนั้นๆได้เลย)
 
+*   เริ่มต้น Arduino IDE
 *   [เกี่ยวกับวงจร](https://github.com/Punuy/Arduino-MLX90614/edit/main/README.md#%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3)
 *   [ต่อวงจร](https://github.com/Punuy/Arduino-MLX90614/edit/main/README.md#%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3)
 *   [หลักการทำงาน](https://github.com/Punuy/Arduino-MLX90614/edit/main/README.md#%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99)
 *   [เกี่ยวกับ Code](https://github.com/Punuy/Arduino-MLX90614#%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A-code)
-*   [ต่อยอดอนาคต](https://github.com/Punuy/Arduino-MLX90614#ต่อยอดอนาคต)
+*   [ต่อยอดอนาคต](https://github.com/Punuy/Arduino-MLX90614#%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95)
+
+## ติดตั้ง Arduino IDE + Driver (ไดร์เวอร์) + ลง Library
+
+#### วิธีติดตั้ง Arduino IDE
+
+1.เข้าไปที่เว็ป [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+
+2.กดที่ Windows Win 10 and newer, 64bit
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/90d667866f3a394f821684cdbdeb2132181fdf621ee72879.png)
+
+3.กด Just download
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/730728756fdc57ed1fe61a4f3eb9623a32f20a949755909a.png)
+
+4.จากนั้น เปิดไฟล์ติดตั้ง กด Next ไปเรื่อยๆ และรอจน กว่าจะมีให้กด Close
+
+![](https://i.lnwfile.com/_/i/_webp_max/4096/4096/3o/rs/v6.webp)
+
+5.เรียบร้อย
+
+#### วิธีลง Driver (ไดร์เวอร์)
+
+1.ดาวน์โหลดไดร์เวอร์จาก [Google drive](https://drive.google.com/file/d/1vWQvUmr6n8rPnLbUaXrGmGED0_mcd57g/view?usp=sharing) ← คลิก
+
+2.เปิดไฟล์ที่โหลดมา กด YES จากนั้นกด INSTALL
+
+![](https://cq.lnwfile.com/_/cq/_raw/q5/w2/0b.jpg)
+
+3.เมื่อเสร็จสิ้นมีข้อความแสดงว่า "Driver install success" ให้กด OK
+
+![](https://cq.lnwfile.com/_/cq/_raw/py/dm/be.jpg)
+
+4.ถอดสายUSB แล้วเชื่อมต่อใหม่ สังเกตุในโปรแกรม Arduino IDE เจอPORT
+
+![](https://cq.lnwfile.com/_/cq/_raw/em/6h/7g.jpg)
+
+5.เรียบร้อย
+
+#### วิธีลง Library
+
+1.  กดไปที่ Sketch → Include Library → Add .ZIP Library
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b21fb3f96fd08fa8b4751f9efd8d218cad8a5317ab3863f8.png)
+
+2.เลือกไปยังโฟลเดอร์ Libraries ที่โหลดไว้ แล้วเลือก MLX90614\_Demo.zip จากนั้นกด open
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/e036ce257a0fcb856f72766092673a6ef260cb66ca6b63ee.png)
+
+3.เรียบร้อย
 
 ## เกี่ยวกับวงจร
 
