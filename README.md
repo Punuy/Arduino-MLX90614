@@ -88,7 +88,13 @@ Eng. Right Click → Extract Here
 
 ### วิธีเช็ค Port เบื้องต้น
 
-กำลังเขียน
+1.เข้าไปที่ Device Manager
+
+คลิกขวาที่ Start → Device Manager
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/bc59b3f06daa9e40481a304349539f2178253aebc7b71ba4.png)
+
+2.ไม่มี กำลังหาตัวอย่างมาทำภาพประกอบ
 
 ### วิธีลง Library
 
@@ -114,7 +120,7 @@ Eng. Right Click → Extract Here
 
 3.เปิดไฟล์ MLX90614\_Buzzer (Thai) // อยู่ในโฟล์เดอร์ MLX90614\_Buzzer (Thai)
 
-→ วิธีโหลดไฟล์ ←
+→ [วิธีโหลดไฟล์](https://github.com/Punuy/Arduino-MLX90614#วิธีโหลดไฟล์) ←
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/86ed4d70be27706cfb52b1761681d5f4bd0010a465c2eab1.png)
 
@@ -129,7 +135,7 @@ Eng. Right Click → Extract Here
 
 ไปที่ Tools → Port → Port ที่เชื่อมต่อกับบอร์ด Arduino Nano (ในตัวอย่างจะเป็น Port COM1)
 
-→ วิธีเช็ค Port เบื้องต้น ← (กำลังเขียน)
+→ [วิธีเช็ค Port เบื้องต้น](https://github.com/Punuy/Arduino-MLX90614#วิธีเช็ค-port-เบื้องต้น) ←
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/1e951454c60e88a1e69d021d06dc811d135e53fc177ac74b.png)
 
