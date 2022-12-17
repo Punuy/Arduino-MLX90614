@@ -6,26 +6,26 @@
 
 *   วิธีโหลดไฟล์
 *   [เริ่มต้น Arduino IDE](https://github.com/Punuy/Arduino-MLX90614#%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-arduino-ide--driver-%E0%B9%84%E0%B8%94%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C--%E0%B8%A5%E0%B8%87-library)
-    *   วิธีติดตั้ง Arduino IDE
-    *   วิธีลง Driver (ไดร์เวอร์)
+    *   [วิธีติดตั้ง Arduino IDE](https://github.com/Punuy/Arduino-MLX90614#วิธีติดตั้ง-arduino-ide)
+    *   [วิธีลง Driver (ไดร์เวอร์)](https://github.com/Punuy/Arduino-MLX90614#วิธีลง-driver-ไดร์เวอร์)
     *   วิธีเช็ค Port เบื้องต้น
-    *   วิธีลง Library
-    *   วิธี Upload Code
+    *   [วิธีลง Library](https://github.com/Punuy/Arduino-MLX90614#วิธีลง-library)
+    *   [วิธี Upload Code](https://github.com/Punuy/Arduino-MLX90614#วิธี-upload-code)
 *   [เกี่ยวกับวงจร](https://github.com/Punuy/Arduino-MLX90614#%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3)
     *   อุปกรณ์ที่ใช้
-        *   Arduino Nano
-        *   Buzzer Module
-        *   MLX90614
-    *   การต่อวงจร
-    *   Product
+        *   [Arduino Nano](https://github.com/Punuy/Arduino-MLX90614#arduino-และ-arduino-nano)
+        *   [Buzzer Module](https://github.com/Punuy/Arduino-MLX90614#buzzer-module)
+        *   [MLX90614](https://github.com/Punuy/Arduino-MLX90614#mlx90614)
+    *   [การต่อวงจร](https://github.com/Punuy/Arduino-MLX90614#การต่อวงจร)
+    *   [Product](https://github.com/Punuy/Arduino-MLX90614#product)
 *   [หลักการทำงาน](https://github.com/Punuy/Arduino-MLX90614#%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%999)
     *   ด้านโปรแกรม
     *   ด้านการใช้งาน
         *   ข้อดี - ข้อเสีย
 *   [เกี่ยวกับ Code](https://github.com/Punuy/Arduino-MLX90614#%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A-code)
-    *   Code ทดสอบ MLX90614
-    *   Code ทดสอบ Buzzer Module
-    *   Code ใช้งานจริง
+    *   [Code ทดสอบ MLX90614](https://github.com/Punuy/Arduino-MLX90614#code-ทดสอบ-mlx90614-วัดอุณหภูมิโดยรอบ-และ-วัตถุ)
+    *   [Code ทดสอบ Buzzer Module](https://github.com/Punuy/Arduino-MLX90614#code-ทดสอบ-buzzer-module-ปิด-เปิด-วนซ้ำทุก-1วินาที)
+    *   [Code ใช้งานจริง](https://github.com/Punuy/Arduino-MLX90614#code-ใช้งานจริง)
 *   [ต่อยอดอนาคต](https://github.com/Punuy/Arduino-MLX90614#%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95)
 
 ## ติดตั้ง Arduino IDE + Driver (ไดร์เวอร์) + ลง Library
@@ -66,6 +66,10 @@
 
 5.เรียบร้อย
 
+### วิธีเช็ค Port เบื้องต้น
+
+กำลังเขียน
+
 ### วิธีลง Library
 
 1.กดไปที่ Sketch → Include Library → Add .ZIP Library
@@ -90,6 +94,8 @@
 
 3.เปิดไฟล์ MLX90614\_Buzzer (Thai) // อยู่ในโฟล์เดอร์ MLX90614\_Buzzer (Thai)
 
+→ วิธีโหลดไฟล์ ←
+
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/86ed4d70be27706cfb52b1761681d5f4bd0010a465c2eab1.png)
 
   
@@ -103,7 +109,7 @@
 
 ไปที่ Tools → Port → Port ที่เชื่อมต่อกับบอร์ด Arduino Nano (ในตัวอย่างจะเป็น Port COM1)
 
-วิธีเช็ค Port เบื้องต้น (กำลังเขียน)
+→ วิธีเช็ค Port เบื้องต้น ← (กำลังเขียน)
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/1e951454c60e88a1e69d021d06dc811d135e53fc177ac74b.png)
 
@@ -124,10 +130,9 @@
 ## เกี่ยวกับวงจร
 
 *   อุปกรณ์ที่ใช้
-    *   Arduino Nano
-    *   Buzzer Module
-    *   MLX90614
-*   การต่อวงจร
+    *   [Arduino Nano](https://github.com/Punuy/Arduino-MLX90614#arduino-และ-arduino-nano)
+    *   [Buzzer Module](https://github.com/Punuy/Arduino-MLX90614#buzzer-module)
+    *   [MLX90614](https://github.com/Punuy/Arduino-MLX90614#mlx90614)
 
 ### Arduino และ Arduino Nano
 
@@ -149,7 +154,7 @@ MLX90614 เป็นเซนเซอร์วัดอุณหภูมิ�
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/27515ac891faaec4b441c87bdc697743cf7f0ba931586026.png)
 
-## ต่อวงจร
+## การต่อวงจร
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/6e73337bc2d1d340794b5d564cf79e002ec2281f325df3da.png)
 
@@ -166,7 +171,13 @@ MLX90614 เป็นเซนเซอร์วัดอุณหภูมิ�
 
 ## หลักการทำงาน
 
-เร็วๆนี้
+### ด้านโปรแกรม
+
+กำลัง Thinking…
+
+### ด้านการใช้งาน
+
+กำลัง Thinking…
 
 ## เกี่ยวกับ Code
 
