@@ -6,6 +6,10 @@ Arduino MLX90614 วัดอุณภูมิโดยไม่สัมผั
 <a href="https://github.com/Punuy/Arduino-MLX90614/blob/main/README.md">TH</a> | EN(no)
 </p>
 
+<p align="center"> 
+<img src="https://github.com/Punuy/Arduino-MLX90614/blob/main/PNG/nice.png" width="660" height="430" />
+</p>
+
 ### **หัวข้อ** (คลิกไปที่หัวข้อนั้นๆได้เลย)
 
 *   [วิธีโหลดไฟล์](https://github.com/Punuy/Arduino-MLX90614#วิธีโหลดไฟล์)
