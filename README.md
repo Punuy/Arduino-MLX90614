@@ -4,7 +4,7 @@
 
 ### **หัวข้อ** (คลิกไปที่หัวข้อนั้นๆได้เลย)
 
-*   วิธีโหลดไฟล์
+*   [วิธีโหลดไฟล์](https://github.com/Punuy/Arduino-MLX90614#วิธีโหลดไฟล์)
 *   [เริ่มต้น Arduino IDE](https://github.com/Punuy/Arduino-MLX90614#%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-arduino-ide--driver-%E0%B9%84%E0%B8%94%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C--%E0%B8%A5%E0%B8%87-library)
     *   [วิธีติดตั้ง Arduino IDE](https://github.com/Punuy/Arduino-MLX90614#วิธีติดตั้ง-arduino-ide)
     *   [วิธีลง Driver (ไดร์เวอร์)](https://github.com/Punuy/Arduino-MLX90614#วิธีลง-driver-ไดร์เวอร์)
