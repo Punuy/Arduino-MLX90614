@@ -19,6 +19,7 @@
 *   [หลักการทำงาน](https://github.com/Punuy/Arduino-MLX90614#หลักการทำงาน9)
     * ด้านโปรแกรม
     * ด้านการใช้งาน
+        * ข้อดี - ข้อเสีย
 *   [เกี่ยวกับ Code](https://github.com/Punuy/Arduino-MLX90614#เกี่ยวกับ-code)
     * Code ทดสอบ MLX90614
     * Code ทดสอบ Buzzer Module
