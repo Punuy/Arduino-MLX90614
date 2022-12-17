@@ -277,3 +277,7 @@ delay(1000);                // ดีเลย์ 1วิ (1000 = 1วินา�
 <p align="center">
 Made with 💜 by Punuy
 </p>
+
+<p align="center"> 
+<img src="https://media.tenor.com/e046riJYwWwAAAAC/bocchi-bocchi-the-rock.gif" width="468" height="250" />
+</p>
