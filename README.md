@@ -8,7 +8,7 @@
 *   [เริ่มต้น Arduino IDE](https://github.com/Punuy/Arduino-MLX90614#%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-arduino-ide--driver-%E0%B9%84%E0%B8%94%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C--%E0%B8%A5%E0%B8%87-library)
     *   [วิธีติดตั้ง Arduino IDE](https://github.com/Punuy/Arduino-MLX90614#วิธีติดตั้ง-arduino-ide)
     *   [วิธีลง Driver (ไดร์เวอร์)](https://github.com/Punuy/Arduino-MLX90614#วิธีลง-driver-ไดร์เวอร์)
-    *   วิธีเช็ค Port เบื้องต้น
+    *   [วิธีเช็ค Port เบื้องต้น](https://github.com/Punuy/Arduino-MLX90614#วิธีเช็ค-port-เบื้องต้น)
     *   [วิธีลง Library](https://github.com/Punuy/Arduino-MLX90614#วิธีลง-library)
     *   [วิธี Upload Code](https://github.com/Punuy/Arduino-MLX90614#วิธี-upload-code)
 *   [เกี่ยวกับวงจร](https://github.com/Punuy/Arduino-MLX90614#%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%A3)
@@ -18,15 +18,19 @@
         *   [MLX90614](https://github.com/Punuy/Arduino-MLX90614#mlx90614)
     *   [การต่อวงจร](https://github.com/Punuy/Arduino-MLX90614#การต่อวงจร)
     *   [Product](https://github.com/Punuy/Arduino-MLX90614#product)
-*   [หลักการทำงาน](https://github.com/Punuy/Arduino-MLX90614#%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%999)
-    *   ด้านโปรแกรม
-    *   ด้านการใช้งาน
+*   [หลักการทำงาน](https://github.com/Punuy/Arduino-MLX90614#หลักการทำงาน)
+    *   [ด้านโปรแกรม](https://github.com/Punuy/Arduino-MLX90614#ด้านโปรแกรม)
+    *   [ด้านการใช้งาน](https://github.com/Punuy/Arduino-MLX90614#ด้านการใช้งาน)
         *   ข้อดี - ข้อเสีย
 *   [เกี่ยวกับ Code](https://github.com/Punuy/Arduino-MLX90614#%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A-code)
     *   [Code ทดสอบ MLX90614](https://github.com/Punuy/Arduino-MLX90614#code-ทดสอบ-mlx90614-วัดอุณหภูมิโดยรอบ-และ-วัตถุ)
     *   [Code ทดสอบ Buzzer Module](https://github.com/Punuy/Arduino-MLX90614#code-ทดสอบ-buzzer-module-ปิด-เปิด-วนซ้ำทุก-1วินาที)
     *   [Code ใช้งานจริง](https://github.com/Punuy/Arduino-MLX90614#code-ใช้งานจริง)
 *   [ต่อยอดอนาคต](https://github.com/Punuy/Arduino-MLX90614#%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%95)
+
+## วิธีโหลดไฟล์
+
+กำลังเขียน
 
 ## ติดตั้ง Arduino IDE + Driver (ไดร์เวอร์) + ลง Library
 
